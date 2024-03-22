@@ -22,4 +22,18 @@ const getPartners = (req, res) => {
   return res.status(200).json(partners);
 };
 
-module.exports = { getPartners };
+const getPartner = (req, res) => {
+  const { id } = req.params;
+  const allPartners = getAllPartners();
+  const partner = allPartners.filter((partner) => {
+    return partner.id === id;
+  });
+
+  if (partner.length === 0) {
+    return res.status(404).json("Message: No such partner");
+  }
+
+  return res.status(200).json(partner[0]);
+};
+
+module.exports = { getPartners, getPartner };
