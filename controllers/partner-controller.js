@@ -91,4 +91,46 @@ const postComment = (req, res) => {
   res.status(201).json(newComment);
 };
 
-module.exports = { getPartners, getPartner, getComments, postComment };
+const deleteComment = (req, res) => {
+  const { partnerId, commentId } = req.params;
+
+  const allPartners = getAllPartners();
+  const partner = allPartners.find((partner) => {
+    return partner.id === partnerId;
+  });
+
+  if (!partner) {
+    return res.status(404).json("Message: No such partner");
+  }
+
+  const comments = [...partner.comments];
+
+  const foundCommentIndex = comments.findIndex(
+    (comment) => comment.id === commentId
+  );
+
+  if (foundCommentIndex === -1) {
+    return res.status(404).json("Message: no such comment");
+  }
+
+  const deletedComment = comments.splice(foundCommentIndex, 1);
+
+  const updatedParters = allPartners.map((partner) => {
+    if (partner.id === partnerId) {
+      return { ...partner, comments };
+    }
+    return partner;
+  });
+
+  setAllPartners(updatedParters);
+
+  res.status(200).json(deletedComment);
+};
+
+module.exports = {
+  getPartners,
+  getPartner,
+  getComments,
+  postComment,
+  deleteComment,
+};
