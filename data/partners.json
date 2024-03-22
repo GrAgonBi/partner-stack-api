@@ -1,0 +1,313 @@
+[
+  {
+    "id": "fbc8374f-89a0-4f47-a6d7-2849dbf225fd",
+    "name": "Innovative Group",
+    "description": "Innovative Group provides cutting-edge solutions for e-commerce businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Affiliate Marketer",
+    "market_area": "Australia",
+    "details": "Innovative Group specializes in developing advanced affiliate marketing strategies and solutions tailored to meet the unique needs of e-commerce businesses. With a team of experienced professionals, they aim to drive growth and maximize revenue for their partners through innovative marketing techniques and strategic partnerships.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner1@example.com",
+      "facebook": "https://www.facebook.com/InnovativeGroup",
+      "linkedin": "https://www.linkedin.com/in/InnovativeGroup"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "comment": "Great partner to work with!"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "comment": "Their expertise in affiliate marketing is impressive."
+      },
+      {
+        "id": "3",
+        "name": "Alice Johnson",
+        "comment": "Always delivers results on time."
+      }
+    ]
+  },
+  {
+    "id": "2b4bb8c1-4e84-4e82-9b42-70d33e5262a4",
+    "name": "Dynamic Enterprises",
+    "description": "Dynamic Enterprises offers innovative managed service solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Sales",
+    "category": "Managed Service Provider (MSP)",
+    "market_area": "Brazil",
+    "details": "Dynamic Enterprises is a leading provider of managed service solutions, helping businesses streamline their operations and achieve their goals. With a focus on reliability, scalability, and efficiency, Dynamic Enterprises empowers organizations to stay competitive in today's dynamic market landscape.",
+    "commission": 9,
+    "social_links": {
+      "email": "partner2@example.com",
+      "facebook": "https://www.facebook.com/DynamicEnterprises",
+      "linkedin": "https://www.linkedin.com/in/DynamicEnterprises"
+    },
+    "comments": [
+      {
+        "id": "4",
+        "name": "David Brown",
+        "comment": "Exceptional service provided by Dynamic Enterprises."
+      },
+      {
+        "id": "5",
+        "name": "Emily Clark",
+        "comment": "Their MSP solutions have greatly improved our business operations."
+      }
+    ]
+  },
+  {
+    "id": "1b5edc2c-cabc-45eb-bef0-dfeeb0f7140a",
+    "name": "Tech Solutions",
+    "description": "Tech Solutions specializes in providing innovative system integration services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "System Integrator (SI)",
+    "market_area": "Italy",
+    "details": "Tech Solutions offers comprehensive system integration services designed to optimize business processes and enhance efficiency. With a team of skilled professionals and a focus on customer satisfaction, Tech Solutions ensures seamless integration of systems and technologies to meet the unique needs of each client.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner3@example.com",
+      "facebook": "https://www.facebook.com/TechSolutions",
+      "linkedin": "https://www.linkedin.com/in/TechSolutions"
+    },
+    "comments": [
+      {
+        "id": "6",
+        "name": "Mark Johnson",
+        "comment": "Highly recommend Tech Solutions for SI services."
+      }
+    ]
+  },
+  {
+    "id": "3a73877e-6c17-496f-b715-f4928a643d9c",
+    "name": "Pro Innovations",
+    "description": "Pro Innovations offers cutting-edge solutions for affiliate marketing.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Affiliate Marketer",
+    "market_area": "South Africa",
+    "details": "Pro Innovations is dedicated to revolutionizing the affiliate marketing industry with innovative solutions and strategies. They leverage the latest technologies and best practices to drive engagement, increase conversions, and maximize ROI for their partners. With a focus on performance and results, Pro Innovations helps businesses thrive in the competitive online landscape.",
+    "commission": 7,
+    "social_links": {
+      "email": "partner4@example.com",
+      "facebook": "https://www.facebook.com/ProInnovations",
+      "linkedin": "https://www.linkedin.com/in/ProInnovations"
+    },
+    "comments": [
+      {
+        "id": "7",
+        "name": "Sarah Williams",
+        "comment": "Pro Innovations helped us boost our affiliate sales significantly."
+      }
+    ]
+  },
+  {
+    "id": "c72b7b09-8c12-4d74-9189-56c8b617c94e",
+    "name": "Prime Enterprises",
+    "description": "Prime Enterprises offers comprehensive publishing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Other",
+    "category": "Publisher",
+    "market_area": "United States",
+    "details": "Prime Enterprises specializes in providing end-to-end publishing solutions for businesses of all sizes. From content creation to distribution, they offer a wide range of services to help clients reach their target audience and achieve their publishing goals. With a focus on quality and innovation, Prime Enterprises is committed to delivering exceptional results for their partners.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner5@example.com",
+      "facebook": "https://www.facebook.com/PrimeEnterprises",
+      "linkedin": "https://www.linkedin.com/in/PrimeEnterprises"
+    },
+    "comments": [
+      {
+        "id": "8",
+        "name": "Michael Taylor",
+        "comment": "Prime Enterprises has been instrumental in our publishing efforts."
+      }
+    ]
+  },
+  {
+    "id": "b4a18d6b-5b84-4f92-b4b1-ae03b1d5a198",
+    "name": "Power Tech",
+    "description": "Power Tech specializes in providing top-notch security solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Reseller Partner",
+    "market_area": "Japan",
+    "details": "Power Tech is a trusted provider of cutting-edge security solutions designed to protect businesses from evolving cyber threats. Their comprehensive range of products and services includes advanced threat detection, incident response, and vulnerability management solutions. With a team of cybersecurity experts and a commitment to excellence, Power Tech helps organizations safeguard their critical assets and maintain a strong security posture.",
+    "commission": 11,
+    "social_links": {
+      "email": "partner6@example.com",
+      "facebook": "https://www.facebook.com/PowerTech",
+      "linkedin": "https://www.linkedin.com/in/PowerTech"
+    },
+    "comments": [
+      {
+        "id": "9",
+        "name": "Chris Evans",
+        "comment": "Power Tech offers top-notch security solutions."
+      }
+    ]
+  },
+  {
+    "id": "a740d157-3f5c-489f-8048-85c3c60cc8e6",
+    "name": "Global Solutions",
+    "description": "Global Solutions provides innovative referral solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Productivity",
+    "category": "Referral Partner",
+    "market_area": "Canada",
+    "details": "Global Solutions specializes in developing and implementing effective referral programs to help businesses generate leads, acquire new customers, and drive revenue growth. With a focus on results and customer satisfaction, Global Solutions collaborates closely with clients to design customized referral strategies that align with their business objectives and deliver tangible outcomes.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner7@example.com",
+      "facebook": "https://www.facebook.com/GlobalSolutions",
+      "linkedin": "https://www.linkedin.com/in/GlobalSolutions"
+    },
+    "comments": [
+      {
+        "id": "10",
+        "name": "Michelle Anderson",
+        "comment": "We've had a great experience working with Global Solutions."
+      },
+      {
+        "id": "11",
+        "name": "James Wilson",
+        "comment": "Their referral program is highly effective."
+      }
+    ]
+  },
+  {
+    "id": "f7e565f4-8e07-4fc4-8057-8208e26ac28e",
+    "name": "Elite Systems",
+    "description": "Elite Systems offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Other",
+    "market_area": "China",
+    "details": "Elite Systems is a leading provider of innovative marketing solutions designed to help businesses maximize their online presence, engage with their target audience, and drive business growth. From digital marketing strategies to creative content development, Elite Systems offers a comprehensive suite of services to meet the diverse needs of their clients. With a team of experienced marketers and a track record of success, Elite Systems is committed to delivering exceptional results for their partners.",
+    "commission": 19,
+    "social_links": {
+      "email": "partner8@example.com",
+      "facebook": "https://www.facebook.com/EliteSystems",
+      "linkedin": "https://www.linkedin.com/in/EliteSystems"
+    },
+    "comments": [
+      {
+        "id": "12",
+        "name": "Jennifer White",
+        "comment": "Elite Systems has helped us expand our marketing reach significantly."
+      },
+      {
+        "id": "13",
+        "name": "Brian Miller",
+        "comment": "Their marketing strategies are innovative and effective."
+      }
+    ]
+  },
+  {
+    "id": "3d0b3a8e-19c5-458f-9eac-91d152c1dc07",
+    "name": "Digital Group",
+    "description": "Digital Group provides excellent support for accounting needs.",
+    "img": "partner_image.jpg",
+    "industry": "Accounting",
+    "category": "Agency Partner",
+    "market_area": "Egypt",
+    "details": "Digital Group is committed to providing comprehensive support and solutions for all accounting needs. With a team of experienced professionals and a dedication to customer satisfaction, Digital Group offers a wide range of services including bookkeeping, tax preparation, and financial consulting. Whether you're a small business or a large corporation, Digital Group has the expertise and resources to help you achieve your financial goals.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner9@example.com",
+      "facebook": "https://www.facebook.com/DigitalGroup",
+      "linkedin": "https://www.linkedin.com/in/DigitalGroup"
+    },
+    "comments": [
+      {
+        "id": "14",
+        "name": "David Rodriguez",
+        "comment": "Digital Group provides excellent support for our accounting needs."
+      }
+    ]
+  },
+  {
+    "id": "ad08d3ab-d179-4318-a9e6-8b1863ab98c8",
+    "name": "Strategic Enterprises",
+    "description": "Strategic Enterprises offers valuable social media expertise.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Value Added Reseller (VAR)",
+    "market_area": "Canada",
+    "details": "Strategic Enterprises specializes in providing businesses with valuable social media expertise to enhance their online presence and engage with their target audience effectively. With a team of experienced professionals and a focus on results-driven strategies, Strategic Enterprises helps clients maximize their social media ROI and achieve their business objectives. Whether you're looking to increase brand awareness, drive website traffic, or generate leads, Strategic Enterprises has the expertise and resources to help you succeed in the competitive digital landscape.",
+    "commission": 10,
+    "social_links": {
+      "email": "partner10@example.com",
+      "facebook": "https://www.facebook.com/StrategicEnterprises",
+      "linkedin": "https://www.linkedin.com/in/StrategicEnterprises"
+    },
+    "comments": [
+      {
+        "id": "15",
+        "name": "Susan Thompson",
+        "comment": "Strategic Enterprises has been a valuable partner for our VAR program."
+      },
+      {
+        "id": "16",
+        "name": "Kevin Lee",
+        "comment": "Their social media expertise has significantly boosted our sales."
+      }
+    ]
+  },
+  {
+    "id": "4cd22b0e-bc09-4ae1-95d6-755b1b163d6e",
+    "name": "Tech Innovations",
+    "description": "Tech Innovations specializes in publishing software products effectively.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Publisher",
+    "market_area": "United States",
+    "details": "Tech Innovations is dedicated to helping businesses publish their software products effectively and efficiently. With a focus on quality and innovation, Tech Innovations offers a wide range of publishing services including product documentation, marketing collateral, and distribution. Whether you're launching a new software product or updating an existing one, Tech Innovations has the expertise and resources to help you achieve your publishing goals.",
+    "commission": 13,
+    "social_links": {
+      "email": "partner11@example.com",
+      "facebook": "https://www.facebook.com/TechInnovations",
+      "linkedin": "https://www.linkedin.com/in/TechInnovations"
+    },
+    "comments": [
+      {
+        "id": "17",
+        "name": "Laura Harris",
+        "comment": "Tech Innovations has helped us publish our software products effectively."
+      }
+    ]
+  },
+  {
+    "id": "c5d47cc9-1b8a-4b91-bd50-69e7848b80f3",
+    "name": "Innovate Solutions",
+    "description": "Innovate Solutions provides reliable managed service solutions.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Managed Service Provider (MSP)",
+    "market_area": "Brazil",
+    "details": "Innovate Solutions specializes in delivering reliable managed service solutions tailored to the unique needs of businesses. With a focus on efficiency and customer satisfaction, Innovate Solutions offers a wide range of services including network management, cloud computing, and IT support. Whether you're a small business or a large enterprise, Innovate Solutions has the expertise and resources to help you optimize your IT infrastructure and achieve your business objectives.",
+    "commission": 8,
+    "social_links": {
+      "email": "partner12@example.com",
+      "facebook": "https://www.facebook.com/InnovateSolutions",
+      "linkedin": "https://www.linkedin.com/in/InnovateSolutions"
+    },
+    "comments": [
+      {
+        "id": "18",
+        "name": "Robert Brown",
+        "comment": "Innovate Solutions provides reliable MSP services."
+      },
+      {
+        "id": "19",
+        "name": "Jessica Carter",
+        "comment": "Their support team is always responsive and helpful."
+      }
+    ]
+  }
+]
