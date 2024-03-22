@@ -505,5 +505,61 @@
         "comment": "Their team is knowledgeable and dedicated to delivering quality results."
       }
     ]
+  },
+  {
+    "id": "e5a3d715-89ee-4f81-8676-0c0670d89034",
+    "name": "Data Solutions Inc.",
+    "description": "Data Solutions Inc. specializes in providing innovative data analytics solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Data Solutions Inc. is a leading provider of data analytics solutions, helping businesses harness the power of data to drive marketing success. With advanced analytics tools and expertise, Data Solutions Inc. enables clients to gain valuable insights into customer behavior, optimize marketing campaigns, and maximize ROI. Whether you're looking to improve targeting, increase conversion rates, or enhance customer engagement, Data Solutions Inc. has the solutions you need to succeed in today's competitive marketplace.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner21@example.com",
+      "facebook": "https://www.facebook.com/DataSolutionsInc",
+      "linkedin": "https://www.linkedin.com/in/DataSolutionsInc"
+    },
+    "comments": [
+      {
+        "id": "36",
+        "name": "Alex Johnson",
+        "comment": "Data Solutions Inc. has revolutionized our marketing efforts with their data analytics solutions."
+      },
+      {
+        "id": "37",
+        "name": "Sophia Wilson",
+        "comment": "Their team is highly skilled and responsive to our needs."
+      }
+    ]
+  },
+  {
+    "id": "bfe89dd7-6c8f-492d-a536-6ee1537205d6",
+    "name": "Digital Insights",
+    "description": "Digital Insights offers innovative data analytics solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Digital Insights specializes in providing advanced data analytics solutions to help businesses make informed marketing decisions and drive growth. With a focus on actionable insights and predictive analytics, Digital Insights empowers clients to optimize their marketing strategies, improve campaign performance, and achieve their business objectives. Whether you're looking to increase revenue, reduce costs, or enhance customer satisfaction, Digital Insights has the expertise and resources to help you succeed in today's data-driven marketplace.",
+    "commission": 17,
+    "social_links": {
+      "email": "partner22@example.com",
+      "facebook": "https://www.facebook.com/DigitalInsights",
+      "linkedin": "https://www.linkedin.com/in/DigitalInsights"
+    },
+    "comments": [
+      {
+        "id": "38",
+        "name": "Emily Smith",
+        "comment": "Digital Insights has been instrumental in optimizing our marketing strategies with their data analytics solutions."
+      },
+      {
+        "id": "39",
+        "name": "James Johnson",
+        "comment": "Their team is highly knowledgeable and proactive in delivering results."
+      }
+    ]
   }
 ]
