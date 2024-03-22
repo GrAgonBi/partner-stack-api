@@ -309,5 +309,201 @@
         "comment": "Their support team is always responsive and helpful."
       }
     ]
+  },
+  {
+    "id": "25b6d35b-77e0-4da7-9f0f-3e929c8af089",
+    "name": "Tech Wizards",
+    "description": "Tech Wizards specializes in providing innovative software development solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Value Added Reseller (VAR)",
+    "market_area": "United States",
+    "details": "Tech Wizards is a leading provider of software development solutions, offering a comprehensive suite of services to help businesses bring their digital ideas to life. With expertise in custom software development, web development, and mobile app development, Tech Wizards empowers organizations to stay ahead of the competition in today's digital landscape. Whether you're a startup or a Fortune 500 company, Tech Wizards has the skills and experience to turn your vision into reality.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner13@example.com",
+      "facebook": "https://www.facebook.com/TechWizards",
+      "linkedin": "https://www.linkedin.com/in/TechWizards"
+    },
+    "comments": [
+      {
+        "id": "20",
+        "name": "Emily Johnson",
+        "comment": "Tech Wizards exceeded our expectations with their software development services."
+      },
+      {
+        "id": "21",
+        "name": "Daniel Smith",
+        "comment": "Their team is highly skilled and dedicated to delivering quality results."
+      }
+    ]
+  },
+  {
+    "id": "ea77e8e4-f9cb-4d27-8a1b-ee1189513d84",
+    "name": "Digital Innovations",
+    "description": "Digital Innovations offers innovative digital marketing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Agency Partner",
+    "market_area": "Canada",
+    "details": "Digital Innovations is a full-service digital marketing agency dedicated to helping businesses grow their online presence and drive revenue through strategic digital initiatives. From search engine optimization (SEO) to pay-per-click (PPC) advertising, Digital Innovations offers a wide range of services designed to maximize ROI and deliver measurable results. With a team of experienced marketers and a data-driven approach, Digital Innovations empowers clients to achieve their marketing objectives and stay ahead of the competition.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner14@example.com",
+      "facebook": "https://www.facebook.com/DigitalInnovations",
+      "linkedin": "https://www.linkedin.com/in/DigitalInnovations"
+    },
+    "comments": [
+      {
+        "id": "22",
+        "name": "Jessica Brown",
+        "comment": "Digital Innovations has been instrumental in driving traffic to our website."
+      },
+      {
+        "id": "23",
+        "name": "Matthew Wilson",
+        "comment": "Their team is knowledgeable and proactive in implementing effective marketing strategies."
+      }
+    ]
+  },
+  {
+    "id": "3f748402-10fb-41f1-a9d1-2b6729f6d5b6",
+    "name": "E-Commerce Solutions",
+    "description": "E-Commerce Solutions provides comprehensive e-commerce solutions.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Reseller Partner",
+    "market_area": "United States",
+    "details": "E-Commerce Solutions specializes in providing end-to-end e-commerce solutions to help businesses succeed in the digital marketplace. From website development to payment processing, E-Commerce Solutions offers a range of services designed to optimize online sales and enhance the customer experience. With a focus on scalability and performance, E-Commerce Solutions empowers clients to achieve their e-commerce goals and drive business growth.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner15@example.com",
+      "facebook": "https://www.facebook.com/ECommerceSolutions",
+      "linkedin": "https://www.linkedin.com/in/ECommerceSolutions"
+    },
+    "comments": [
+      {
+        "id": "24",
+        "name": "Andrew Thompson",
+        "comment": "E-Commerce Solutions has been a valuable partner in growing our online business."
+      },
+      {
+        "id": "25",
+        "name": "Olivia Davis",
+        "comment": "Their expertise in e-commerce has helped us increase sales and improve customer satisfaction."
+      }
+    ]
+  },
+  {
+    "id": "a6b0b316-063b-4098-9c84-9b9d58800ec2",
+    "name": "HR Innovations",
+    "description": "HR Innovations offers innovative human resources solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Publisher",
+    "market_area": "Canada",
+    "details": "HR Innovations is dedicated to revolutionizing the human resources industry with innovative solutions and services designed to streamline HR processes and improve employee engagement. From HR software to recruitment services, HR Innovations offers a comprehensive suite of solutions to meet the diverse needs of businesses of all sizes. With a focus on efficiency and effectiveness, HR Innovations helps organizations attract, retain, and develop top talent to drive business success.",
+    "commission": 13,
+    "social_links": {
+      "email": "partner16@example.com",
+      "facebook": "https://www.facebook.com/HrInnovations",
+      "linkedin": "https://www.linkedin.com/in/HrInnovations"
+    },
+    "comments": [
+      {
+        "id": "26",
+        "name": "Sophia Miller",
+        "comment": "HR Innovations has helped us streamline our HR processes and improve employee satisfaction."
+      },
+      {
+        "id": "27",
+        "name": "David Wilson",
+        "comment": "Their HR software is user-friendly and customizable to our needs."
+      }
+    ]
+  },
+  {
+    "id": "e26103cf-f4c8-487f-b8d4-4eaae7ebd68d",
+    "name": "Marketing Masters",
+    "description": "Marketing Masters offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Marketing Masters is a leading affiliate marketing agency specializing in driving growth and revenue for businesses through strategic partnerships and digital initiatives. With a focus on performance-based marketing, Marketing Masters leverages advanced analytics and industry insights to optimize campaigns and maximize ROI for their clients. Whether you're looking to increase brand awareness, drive traffic, or boost sales, Marketing Masters has the expertise and resources to help you achieve your marketing goals.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner18@example.com",
+      "facebook": "https://www.facebook.com/MarketingMasters",
+      "linkedin": "https://www.linkedin.com/in/MarketingMasters"
+    },
+    "comments": [
+      {
+        "id": "30",
+        "name": "Alexander Brown",
+        "comment": "Marketing Masters has been instrumental in driving traffic to our website and increasing conversions."
+      },
+      {
+        "id": "31",
+        "name": "Sophia Davis",
+        "comment": "Their team is highly professional and results-driven."
+      }
+    ]
+  },
+  {
+    "id": "3b0f9de9-36ad-4b09-9b81-0131f3d8bc78",
+    "name": "Social Buzz",
+    "description": "Social Buzz offers innovative social media marketing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Referral Partner",
+    "market_area": "United States",
+    "details": "Social Buzz specializes in helping businesses amplify their brand presence and drive engagement on social media platforms. With a focus on creativity and strategy, Social Buzz develops customized social media marketing campaigns tailored to each client's unique objectives and target audience. From content creation to community management, Social Buzz offers a full suite of services to help clients achieve their social media goals and stay ahead of the competition.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner19@example.com",
+      "facebook": "https://www.facebook.com/SocialBuzz",
+      "linkedin": "https://www.linkedin.com/in/SocialBuzz"
+    },
+    "comments": [
+      {
+        "id": "32",
+        "name": "Emma Johnson",
+        "comment": "Social Buzz has helped us increase our social media presence and engagement significantly."
+      },
+      {
+        "id": "33",
+        "name": "David Smith",
+        "comment": "Their team is highly creative and responsive to our needs."
+      }
+    ]
+  },
+  {
+    "id": "9d048a58-5f5b-43ab-aa54-63705cbe7c25",
+    "name": "Innovative Solutions",
+    "description": "Innovative Solutions offers innovative IT solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "System Integrator (SI)",
+    "market_area": "United States",
+    "details": "Innovative Solutions specializes in providing comprehensive IT solutions and services to help businesses optimize their technology infrastructure and achieve their business objectives. From network design to software development, Innovative Solutions offers a range of services tailored to the unique needs of each client. With a team of experienced IT professionals and a commitment to excellence, Innovative Solutions empowers organizations to leverage technology for competitive advantage and business success.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner20@example.com",
+      "facebook": "https://www.facebook.com/InnovativeSolutions",
+      "linkedin": "https://www.linkedin.com/in/InnovativeSolutions"
+    },
+    "comments": [
+      {
+        "id": "34",
+        "name": "Olivia Johnson",
+        "comment": "Innovative Solutions has been a valuable partner in optimizing our IT infrastructure."
+      },
+      {
+        "id": "35",
+        "name": "Daniel Wilson",
+        "comment": "Their team is knowledgeable and dedicated to delivering quality results."
+      }
+    ]
   }
 ]
