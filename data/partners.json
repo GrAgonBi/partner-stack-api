@@ -1,0 +1,1665 @@
+[
+  {
+    "id": "fbc8374f-89a0-4f47-a6d7-2849dbf225fd",
+    "name": "Innovative Group",
+    "description": "Innovative Group provides cutting-edge solutions for e-commerce businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Affiliate Marketer",
+    "market_area": "Australia",
+    "details": "Innovative Group specializes in developing advanced affiliate marketing strategies and solutions tailored to meet the unique needs of e-commerce businesses. With a team of experienced professionals, they aim to drive growth and maximize revenue for their partners through innovative marketing techniques and strategic partnerships.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner1@example.com",
+      "facebook": "https://www.facebook.com/InnovativeGroup",
+      "linkedin": "https://www.linkedin.com/in/InnovativeGroup"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "comment": "Great partner to work with!"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "comment": "Their expertise in affiliate marketing is impressive."
+      },
+      {
+        "id": "3",
+        "name": "Alice Johnson",
+        "comment": "Always delivers results on time."
+      }
+    ]
+  },
+  {
+    "id": "2b4bb8c1-4e84-4e82-9b42-70d33e5262a4",
+    "name": "Dynamic Enterprises",
+    "description": "Dynamic Enterprises offers innovative managed service solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Sales",
+    "category": "Managed Service Provider (MSP)",
+    "market_area": "Brazil",
+    "details": "Dynamic Enterprises is a leading provider of managed service solutions, helping businesses streamline their operations and achieve their goals. With a focus on reliability, scalability, and efficiency, Dynamic Enterprises empowers organizations to stay competitive in today's dynamic market landscape.",
+    "commission": 9,
+    "social_links": {
+      "email": "partner2@example.com",
+      "facebook": "https://www.facebook.com/DynamicEnterprises",
+      "linkedin": "https://www.linkedin.com/in/DynamicEnterprises"
+    },
+    "comments": [
+      {
+        "id": "4",
+        "name": "David Brown",
+        "comment": "Exceptional service provided by Dynamic Enterprises."
+      },
+      {
+        "id": "5",
+        "name": "Emily Clark",
+        "comment": "Their MSP solutions have greatly improved our business operations."
+      }
+    ]
+  },
+  {
+    "id": "1b5edc2c-cabc-45eb-bef0-dfeeb0f7140a",
+    "name": "Tech Solutions",
+    "description": "Tech Solutions specializes in providing innovative system integration services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "System Integrator (SI)",
+    "market_area": "Italy",
+    "details": "Tech Solutions offers comprehensive system integration services designed to optimize business processes and enhance efficiency. With a team of skilled professionals and a focus on customer satisfaction, Tech Solutions ensures seamless integration of systems and technologies to meet the unique needs of each client.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner3@example.com",
+      "facebook": "https://www.facebook.com/TechSolutions",
+      "linkedin": "https://www.linkedin.com/in/TechSolutions"
+    },
+    "comments": [
+      {
+        "id": "6",
+        "name": "Mark Johnson",
+        "comment": "Highly recommend Tech Solutions for SI services."
+      }
+    ]
+  },
+  {
+    "id": "3a73877e-6c17-496f-b715-f4928a643d9c",
+    "name": "Pro Innovations",
+    "description": "Pro Innovations offers cutting-edge solutions for affiliate marketing.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Affiliate Marketer",
+    "market_area": "South Africa",
+    "details": "Pro Innovations is dedicated to revolutionizing the affiliate marketing industry with innovative solutions and strategies. They leverage the latest technologies and best practices to drive engagement, increase conversions, and maximize ROI for their partners. With a focus on performance and results, Pro Innovations helps businesses thrive in the competitive online landscape.",
+    "commission": 7,
+    "social_links": {
+      "email": "partner4@example.com",
+      "facebook": "https://www.facebook.com/ProInnovations",
+      "linkedin": "https://www.linkedin.com/in/ProInnovations"
+    },
+    "comments": [
+      {
+        "id": "7",
+        "name": "Sarah Williams",
+        "comment": "Pro Innovations helped us boost our affiliate sales significantly."
+      }
+    ]
+  },
+  {
+    "id": "c72b7b09-8c12-4d74-9189-56c8b617c94e",
+    "name": "Prime Enterprises",
+    "description": "Prime Enterprises offers comprehensive publishing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Other",
+    "category": "Publisher",
+    "market_area": "United States",
+    "details": "Prime Enterprises specializes in providing end-to-end publishing solutions for businesses of all sizes. From content creation to distribution, they offer a wide range of services to help clients reach their target audience and achieve their publishing goals. With a focus on quality and innovation, Prime Enterprises is committed to delivering exceptional results for their partners.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner5@example.com",
+      "facebook": "https://www.facebook.com/PrimeEnterprises",
+      "linkedin": "https://www.linkedin.com/in/PrimeEnterprises"
+    },
+    "comments": [
+      {
+        "id": "8",
+        "name": "Michael Taylor",
+        "comment": "Prime Enterprises has been instrumental in our publishing efforts."
+      }
+    ]
+  },
+  {
+    "id": "b4a18d6b-5b84-4f92-b4b1-ae03b1d5a198",
+    "name": "Power Tech",
+    "description": "Power Tech specializes in providing top-notch security solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Reseller Partner",
+    "market_area": "Japan",
+    "details": "Power Tech is a trusted provider of cutting-edge security solutions designed to protect businesses from evolving cyber threats. Their comprehensive range of products and services includes advanced threat detection, incident response, and vulnerability management solutions. With a team of cybersecurity experts and a commitment to excellence, Power Tech helps organizations safeguard their critical assets and maintain a strong security posture.",
+    "commission": 11,
+    "social_links": {
+      "email": "partner6@example.com",
+      "facebook": "https://www.facebook.com/PowerTech",
+      "linkedin": "https://www.linkedin.com/in/PowerTech"
+    },
+    "comments": [
+      {
+        "id": "9",
+        "name": "Chris Evans",
+        "comment": "Power Tech offers top-notch security solutions."
+      }
+    ]
+  },
+  {
+    "id": "a740d157-3f5c-489f-8048-85c3c60cc8e6",
+    "name": "Global Solutions",
+    "description": "Global Solutions provides innovative referral solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Productivity",
+    "category": "Referral Partner",
+    "market_area": "Canada",
+    "details": "Global Solutions specializes in developing and implementing effective referral programs to help businesses generate leads, acquire new customers, and drive revenue growth. With a focus on results and customer satisfaction, Global Solutions collaborates closely with clients to design customized referral strategies that align with their business objectives and deliver tangible outcomes.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner7@example.com",
+      "facebook": "https://www.facebook.com/GlobalSolutions",
+      "linkedin": "https://www.linkedin.com/in/GlobalSolutions"
+    },
+    "comments": [
+      {
+        "id": "10",
+        "name": "Michelle Anderson",
+        "comment": "We've had a great experience working with Global Solutions."
+      },
+      {
+        "id": "11",
+        "name": "James Wilson",
+        "comment": "Their referral program is highly effective."
+      }
+    ]
+  },
+  {
+    "id": "f7e565f4-8e07-4fc4-8057-8208e26ac28e",
+    "name": "Elite Systems",
+    "description": "Elite Systems offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Other",
+    "market_area": "China",
+    "details": "Elite Systems is a leading provider of innovative marketing solutions designed to help businesses maximize their online presence, engage with their target audience, and drive business growth. From digital marketing strategies to creative content development, Elite Systems offers a comprehensive suite of services to meet the diverse needs of their clients. With a team of experienced marketers and a track record of success, Elite Systems is committed to delivering exceptional results for their partners.",
+    "commission": 19,
+    "social_links": {
+      "email": "partner8@example.com",
+      "facebook": "https://www.facebook.com/EliteSystems",
+      "linkedin": "https://www.linkedin.com/in/EliteSystems"
+    },
+    "comments": [
+      {
+        "id": "12",
+        "name": "Jennifer White",
+        "comment": "Elite Systems has helped us expand our marketing reach significantly."
+      },
+      {
+        "id": "13",
+        "name": "Brian Miller",
+        "comment": "Their marketing strategies are innovative and effective."
+      }
+    ]
+  },
+  {
+    "id": "3d0b3a8e-19c5-458f-9eac-91d152c1dc07",
+    "name": "Digital Group",
+    "description": "Digital Group provides excellent support for accounting needs.",
+    "img": "partner_image.jpg",
+    "industry": "Accounting",
+    "category": "Agency Partner",
+    "market_area": "Egypt",
+    "details": "Digital Group is committed to providing comprehensive support and solutions for all accounting needs. With a team of experienced professionals and a dedication to customer satisfaction, Digital Group offers a wide range of services including bookkeeping, tax preparation, and financial consulting. Whether you're a small business or a large corporation, Digital Group has the expertise and resources to help you achieve your financial goals.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner9@example.com",
+      "facebook": "https://www.facebook.com/DigitalGroup",
+      "linkedin": "https://www.linkedin.com/in/DigitalGroup"
+    },
+    "comments": [
+      {
+        "id": "14",
+        "name": "David Rodriguez",
+        "comment": "Digital Group provides excellent support for our accounting needs."
+      }
+    ]
+  },
+  {
+    "id": "ad08d3ab-d179-4318-a9e6-8b1863ab98c8",
+    "name": "Strategic Enterprises",
+    "description": "Strategic Enterprises offers valuable social media expertise.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Value Added Reseller (VAR)",
+    "market_area": "Canada",
+    "details": "Strategic Enterprises specializes in providing businesses with valuable social media expertise to enhance their online presence and engage with their target audience effectively. With a team of experienced professionals and a focus on results-driven strategies, Strategic Enterprises helps clients maximize their social media ROI and achieve their business objectives. Whether you're looking to increase brand awareness, drive website traffic, or generate leads, Strategic Enterprises has the expertise and resources to help you succeed in the competitive digital landscape.",
+    "commission": 10,
+    "social_links": {
+      "email": "partner10@example.com",
+      "facebook": "https://www.facebook.com/StrategicEnterprises",
+      "linkedin": "https://www.linkedin.com/in/StrategicEnterprises"
+    },
+    "comments": [
+      {
+        "id": "15",
+        "name": "Susan Thompson",
+        "comment": "Strategic Enterprises has been a valuable partner for our VAR program."
+      },
+      {
+        "id": "16",
+        "name": "Kevin Lee",
+        "comment": "Their social media expertise has significantly boosted our sales."
+      }
+    ]
+  },
+  {
+    "id": "4cd22b0e-bc09-4ae1-95d6-755b1b163d6e",
+    "name": "Tech Innovations",
+    "description": "Tech Innovations specializes in publishing software products effectively.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Publisher",
+    "market_area": "United States",
+    "details": "Tech Innovations is dedicated to helping businesses publish their software products effectively and efficiently. With a focus on quality and innovation, Tech Innovations offers a wide range of publishing services including product documentation, marketing collateral, and distribution. Whether you're launching a new software product or updating an existing one, Tech Innovations has the expertise and resources to help you achieve your publishing goals.",
+    "commission": 13,
+    "social_links": {
+      "email": "partner11@example.com",
+      "facebook": "https://www.facebook.com/TechInnovations",
+      "linkedin": "https://www.linkedin.com/in/TechInnovations"
+    },
+    "comments": [
+      {
+        "id": "17",
+        "name": "Laura Harris",
+        "comment": "Tech Innovations has helped us publish our software products effectively."
+      }
+    ]
+  },
+  {
+    "id": "c5d47cc9-1b8a-4b91-bd50-69e7848b80f3",
+    "name": "Innovate Solutions",
+    "description": "Innovate Solutions provides reliable managed service solutions.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Managed Service Provider (MSP)",
+    "market_area": "Brazil",
+    "details": "Innovate Solutions specializes in delivering reliable managed service solutions tailored to the unique needs of businesses. With a focus on efficiency and customer satisfaction, Innovate Solutions offers a wide range of services including network management, cloud computing, and IT support. Whether you're a small business or a large enterprise, Innovate Solutions has the expertise and resources to help you optimize your IT infrastructure and achieve your business objectives.",
+    "commission": 8,
+    "social_links": {
+      "email": "partner12@example.com",
+      "facebook": "https://www.facebook.com/InnovateSolutions",
+      "linkedin": "https://www.linkedin.com/in/InnovateSolutions"
+    },
+    "comments": [
+      {
+        "id": "18",
+        "name": "Robert Brown",
+        "comment": "Innovate Solutions provides reliable MSP services."
+      },
+      {
+        "id": "19",
+        "name": "Jessica Carter",
+        "comment": "Their support team is always responsive and helpful."
+      }
+    ]
+  },
+  {
+    "id": "25b6d35b-77e0-4da7-9f0f-3e929c8af089",
+    "name": "Tech Wizards",
+    "description": "Tech Wizards specializes in providing innovative software development solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Value Added Reseller (VAR)",
+    "market_area": "United States",
+    "details": "Tech Wizards is a leading provider of software development solutions, offering a comprehensive suite of services to help businesses bring their digital ideas to life. With expertise in custom software development, web development, and mobile app development, Tech Wizards empowers organizations to stay ahead of the competition in today's digital landscape. Whether you're a startup or a Fortune 500 company, Tech Wizards has the skills and experience to turn your vision into reality.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner13@example.com",
+      "facebook": "https://www.facebook.com/TechWizards",
+      "linkedin": "https://www.linkedin.com/in/TechWizards"
+    },
+    "comments": [
+      {
+        "id": "20",
+        "name": "Emily Johnson",
+        "comment": "Tech Wizards exceeded our expectations with their software development services."
+      },
+      {
+        "id": "21",
+        "name": "Daniel Smith",
+        "comment": "Their team is highly skilled and dedicated to delivering quality results."
+      }
+    ]
+  },
+  {
+    "id": "ea77e8e4-f9cb-4d27-8a1b-ee1189513d84",
+    "name": "Digital Innovations",
+    "description": "Digital Innovations offers innovative digital marketing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Agency Partner",
+    "market_area": "Canada",
+    "details": "Digital Innovations is a full-service digital marketing agency dedicated to helping businesses grow their online presence and drive revenue through strategic digital initiatives. From search engine optimization (SEO) to pay-per-click (PPC) advertising, Digital Innovations offers a wide range of services designed to maximize ROI and deliver measurable results. With a team of experienced marketers and a data-driven approach, Digital Innovations empowers clients to achieve their marketing objectives and stay ahead of the competition.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner14@example.com",
+      "facebook": "https://www.facebook.com/DigitalInnovations",
+      "linkedin": "https://www.linkedin.com/in/DigitalInnovations"
+    },
+    "comments": [
+      {
+        "id": "22",
+        "name": "Jessica Brown",
+        "comment": "Digital Innovations has been instrumental in driving traffic to our website."
+      },
+      {
+        "id": "23",
+        "name": "Matthew Wilson",
+        "comment": "Their team is knowledgeable and proactive in implementing effective marketing strategies."
+      }
+    ]
+  },
+  {
+    "id": "3f748402-10fb-41f1-a9d1-2b6729f6d5b6",
+    "name": "E-Commerce Solutions",
+    "description": "E-Commerce Solutions provides comprehensive e-commerce solutions.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Reseller Partner",
+    "market_area": "United States",
+    "details": "E-Commerce Solutions specializes in providing end-to-end e-commerce solutions to help businesses succeed in the digital marketplace. From website development to payment processing, E-Commerce Solutions offers a range of services designed to optimize online sales and enhance the customer experience. With a focus on scalability and performance, E-Commerce Solutions empowers clients to achieve their e-commerce goals and drive business growth.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner15@example.com",
+      "facebook": "https://www.facebook.com/ECommerceSolutions",
+      "linkedin": "https://www.linkedin.com/in/ECommerceSolutions"
+    },
+    "comments": [
+      {
+        "id": "24",
+        "name": "Andrew Thompson",
+        "comment": "E-Commerce Solutions has been a valuable partner in growing our online business."
+      },
+      {
+        "id": "25",
+        "name": "Olivia Davis",
+        "comment": "Their expertise in e-commerce has helped us increase sales and improve customer satisfaction."
+      }
+    ]
+  },
+  {
+    "id": "a6b0b316-063b-4098-9c84-9b9d58800ec2",
+    "name": "HR Innovations",
+    "description": "HR Innovations offers innovative human resources solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Publisher",
+    "market_area": "Canada",
+    "details": "HR Innovations is dedicated to revolutionizing the human resources industry with innovative solutions and services designed to streamline HR processes and improve employee engagement. From HR software to recruitment services, HR Innovations offers a comprehensive suite of solutions to meet the diverse needs of businesses of all sizes. With a focus on efficiency and effectiveness, HR Innovations helps organizations attract, retain, and develop top talent to drive business success.",
+    "commission": 13,
+    "social_links": {
+      "email": "partner16@example.com",
+      "facebook": "https://www.facebook.com/HrInnovations",
+      "linkedin": "https://www.linkedin.com/in/HrInnovations"
+    },
+    "comments": [
+      {
+        "id": "26",
+        "name": "Sophia Miller",
+        "comment": "HR Innovations has helped us streamline our HR processes and improve employee satisfaction."
+      },
+      {
+        "id": "27",
+        "name": "David Wilson",
+        "comment": "Their HR software is user-friendly and customizable to our needs."
+      }
+    ]
+  },
+  {
+    "id": "e26103cf-f4c8-487f-b8d4-4eaae7ebd68d",
+    "name": "Marketing Masters",
+    "description": "Marketing Masters offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Marketing Masters is a leading affiliate marketing agency specializing in driving growth and revenue for businesses through strategic partnerships and digital initiatives. With a focus on performance-based marketing, Marketing Masters leverages advanced analytics and industry insights to optimize campaigns and maximize ROI for their clients. Whether you're looking to increase brand awareness, drive traffic, or boost sales, Marketing Masters has the expertise and resources to help you achieve your marketing goals.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner18@example.com",
+      "facebook": "https://www.facebook.com/MarketingMasters",
+      "linkedin": "https://www.linkedin.com/in/MarketingMasters"
+    },
+    "comments": [
+      {
+        "id": "30",
+        "name": "Alexander Brown",
+        "comment": "Marketing Masters has been instrumental in driving traffic to our website and increasing conversions."
+      },
+      {
+        "id": "31",
+        "name": "Sophia Davis",
+        "comment": "Their team is highly professional and results-driven."
+      }
+    ]
+  },
+  {
+    "id": "3b0f9de9-36ad-4b09-9b81-0131f3d8bc78",
+    "name": "Social Buzz",
+    "description": "Social Buzz offers innovative social media marketing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Referral Partner",
+    "market_area": "United States",
+    "details": "Social Buzz specializes in helping businesses amplify their brand presence and drive engagement on social media platforms. With a focus on creativity and strategy, Social Buzz develops customized social media marketing campaigns tailored to each client's unique objectives and target audience. From content creation to community management, Social Buzz offers a full suite of services to help clients achieve their social media goals and stay ahead of the competition.",
+    "commission": 14,
+    "social_links": {
+      "email": "partner19@example.com",
+      "facebook": "https://www.facebook.com/SocialBuzz",
+      "linkedin": "https://www.linkedin.com/in/SocialBuzz"
+    },
+    "comments": [
+      {
+        "id": "32",
+        "name": "Emma Johnson",
+        "comment": "Social Buzz has helped us increase our social media presence and engagement significantly."
+      },
+      {
+        "id": "33",
+        "name": "David Smith",
+        "comment": "Their team is highly creative and responsive to our needs."
+      }
+    ]
+  },
+  {
+    "id": "9d048a58-5f5b-43ab-aa54-63705cbe7c25",
+    "name": "Innovative Solutions",
+    "description": "Innovative Solutions offers innovative IT solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "System Integrator (SI)",
+    "market_area": "United States",
+    "details": "Innovative Solutions specializes in providing comprehensive IT solutions and services to help businesses optimize their technology infrastructure and achieve their business objectives. From network design to software development, Innovative Solutions offers a range of services tailored to the unique needs of each client. With a team of experienced IT professionals and a commitment to excellence, Innovative Solutions empowers organizations to leverage technology for competitive advantage and business success.",
+    "commission": 16,
+    "social_links": {
+      "email": "partner20@example.com",
+      "facebook": "https://www.facebook.com/InnovativeSolutions",
+      "linkedin": "https://www.linkedin.com/in/InnovativeSolutions"
+    },
+    "comments": [
+      {
+        "id": "34",
+        "name": "Olivia Johnson",
+        "comment": "Innovative Solutions has been a valuable partner in optimizing our IT infrastructure."
+      },
+      {
+        "id": "35",
+        "name": "Daniel Wilson",
+        "comment": "Their team is knowledgeable and dedicated to delivering quality results."
+      }
+    ]
+  },
+  {
+    "id": "e5a3d715-89ee-4f81-8676-0c0670d89034",
+    "name": "Data Solutions Inc.",
+    "description": "Data Solutions Inc. specializes in providing innovative data analytics solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Data Solutions Inc. is a leading provider of data analytics solutions, helping businesses harness the power of data to drive marketing success. With advanced analytics tools and expertise, Data Solutions Inc. enables clients to gain valuable insights into customer behavior, optimize marketing campaigns, and maximize ROI. Whether you're looking to improve targeting, increase conversion rates, or enhance customer engagement, Data Solutions Inc. has the solutions you need to succeed in today's competitive marketplace.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner21@example.com",
+      "facebook": "https://www.facebook.com/DataSolutionsInc",
+      "linkedin": "https://www.linkedin.com/in/DataSolutionsInc"
+    },
+    "comments": [
+      {
+        "id": "36",
+        "name": "Alex Johnson",
+        "comment": "Data Solutions Inc. has revolutionized our marketing efforts with their data analytics solutions."
+      },
+      {
+        "id": "37",
+        "name": "Sophia Wilson",
+        "comment": "Their team is highly skilled and responsive to our needs."
+      }
+    ]
+  },
+  {
+    "id": "bfe89dd7-6c8f-492d-a536-6ee1537205d6",
+    "name": "Digital Insights",
+    "description": "Digital Insights offers innovative data analytics solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Digital Insights specializes in providing advanced data analytics solutions to help businesses make informed marketing decisions and drive growth. With a focus on actionable insights and predictive analytics, Digital Insights empowers clients to optimize their marketing strategies, improve campaign performance, and achieve their business objectives. Whether you're looking to increase revenue, reduce costs, or enhance customer satisfaction, Digital Insights has the expertise and resources to help you succeed in today's data-driven marketplace.",
+    "commission": 17,
+    "social_links": {
+      "email": "partner22@example.com",
+      "facebook": "https://www.facebook.com/DigitalInsights",
+      "linkedin": "https://www.linkedin.com/in/DigitalInsights"
+    },
+    "comments": [
+      {
+        "id": "38",
+        "name": "Emily Smith",
+        "comment": "Digital Insights has been instrumental in optimizing our marketing strategies with their data analytics solutions."
+      },
+      {
+        "id": "39",
+        "name": "James Johnson",
+        "comment": "Their team is highly knowledgeable and proactive in delivering results."
+      }
+    ]
+  }, {
+    "id": "fbc8374f-89a0-4f47-a6d7-2849dbf225fd",
+    "name": "Innovative Group",
+    "description": "Innovative Group provides cutting-edge solutions for e-commerce businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Affiliate Marketer",
+    "market_area": "Australia",
+    "details": "Innovative Group specializes in developing advanced affiliate marketing strategies and solutions tailored to meet the unique needs of e-commerce businesses. With a team of experienced professionals, they aim to drive growth and maximize revenue for their partners through innovative marketing techniques and strategic partnerships.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner1@example.com",
+      "facebook": "https://www.facebook.com/InnovativeGroup",
+      "linkedin": "https://www.linkedin.com/in/InnovativeGroup"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "comment": "Great partner to work with!"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "comment": "Their expertise in affiliate marketing is impressive."
+      },
+      {
+        "id": "3",
+        "name": "Alice Johnson",
+        "comment": "Always delivers results on time."
+      }
+    ]
+  },
+  {
+    "id": "c994d3b7-482a-4933-87f8-2c5f4e977ef4",
+    "name": "TechSolutions",
+    "description": "TechSolutions offers software development services for various industries.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Publisher",
+    "market_area": "Brazil",
+    "details": "TechSolutions specializes in providing high-quality software development services tailored to the specific needs of businesses. With a team of skilled developers, they deliver innovative solutions to drive digital transformation and business growth.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner2@example.com",
+      "facebook": "https://www.facebook.com/TechSolutions",
+      "linkedin": "https://www.linkedin.com/in/TechSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Michael Brown",
+        "comment": "Excellent software development company!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Wilson",
+        "comment": "Their solutions have greatly improved our business operations."
+      }
+    ]
+  },
+  {
+    "id": "51a90df5-7e35-4d9f-bc5d-10989933f870",
+    "name": "HR Solutions Inc.",
+    "description": "HR Solutions Inc. provides comprehensive human resources management services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Agency partner",
+    "market_area": "Canada",
+    "details": "HR Solutions Inc. offers a wide range of human resources management services, including recruitment, training, and performance management. With a team of HR experts, they help businesses streamline their HR processes and improve employee engagement and productivity.",
+    "commission": 10,
+    "social_links": {
+      "email": "partner3@example.com",
+      "facebook": "https://www.facebook.com/HRSolutions",
+      "linkedin": "https://www.linkedin.com/in/HRSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "David Clark",
+        "comment": "Highly recommend their HR services!"
+      },
+      {
+        "id": "2",
+        "name": "Sophia Martinez",
+        "comment": "Great support for our HR needs."
+      }
+    ]
+  },
+  {
+    "id": "4a1ebe5e-3f2c-4e56-9e0a-5cf5093943d7",
+    "name": "Digital Marketing Pro",
+    "description": "Digital Marketing Pro offers comprehensive digital marketing solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Referral partner",
+    "market_area": "China",
+    "details": "Digital Marketing Pro specializes in providing digital marketing solutions tailored to meet the specific needs of businesses. With a team of experienced marketers, they help businesses improve their online presence, generate leads, and increase sales through effective digital marketing strategies.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner4@example.com",
+      "facebook": "https://www.facebook.com/DigitalMarketingPro",
+      "linkedin": "https://www.linkedin.com/in/DigitalMarketingPro"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Emma Brown",
+        "comment": "Their digital marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Adam Wilson",
+        "comment": "Great partner for boosting online sales!"
+      }
+    ]
+  },
+  {
+    "id": "65e45e09-5db2-4a7e-8f78-063cc8c8d486",
+    "name": "Secure Solutions",
+    "description": "Secure Solutions offers cybersecurity solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Reseller partner",
+    "market_area": "Egypt",
+    "details": "Secure Solutions specializes in providing cybersecurity solutions to businesses of all sizes. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner5@example.com",
+      "facebook": "https://www.facebook.com/SecureSolutions",
+      "linkedin": "https://www.linkedin.com/in/SecureSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophie White",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Jack Green",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+ {
+    "id": "7c62cf4f-7618-4b60-8a5a-3a4818d75f69",
+    "name": "Social Media Masters",
+    "description": "Social Media Masters offers comprehensive social media marketing services.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Other",
+    "market_area": "Italy",
+    "details": "Social Media Masters specializes in providing social media marketing services tailored to meet the specific needs of businesses. With a team of experienced social media marketers, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission" : 15,
+"social_links": {
+      "email": "partner6@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaMasters",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaMasters"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophia Brown",
+        "comment": "Their social media strategies are top-notch!"
+      },
+      {
+        "id": "2",
+        "name": "William Johnson",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "983f63f9-70da-40dc-bd35-f08d65a5e7cd",
+    "name": "Accounting Solutions",
+    "description": "Accounting Solutions offers comprehensive accounting services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Accounting",
+    "category": "Affiliate Marketer",
+    "market_area": "Japan",
+    "details": "Accounting Solutions specializes in providing accounting services tailored to meet the specific needs of businesses. With a team of experienced accountants, they help businesses manage their finances, minimize tax liabilities, and improve financial performance.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner7@example.com",
+      "facebook": "https://www.facebook.com/AccountingSolutions",
+      "linkedin": "https://www.linkedin.com/in/AccountingSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Ethan Wilson",
+        "comment": "Highly recommend their accounting services!"
+      },
+      {
+        "id": "2",
+        "name": "Olivia Smith",
+        "comment": "Great support for managing our finances!"
+      }
+    ]
+  },
+  
+  {
+    "id": "f4a92a58-9c7f-4da0-a58a-226dc3e1f8fd",
+    "name": "Productivity Plus",
+    "description": "Productivity Plus offers productivity enhancement tools and services.",
+    "img": "partner_image.jpg",
+    "industry": "Productivity",
+    "category": "Agency partner",
+    "market_area": "United States",
+    "details": "Productivity Plus specializes in providing productivity enhancement tools and services tailored to meet the specific needs of businesses. With a team of experienced professionals, they help businesses streamline their processes, improve efficiency, and boost productivity.",
+    "commission": 10,
+    "social_links": {
+      "email": "partner9@example.com",
+      "facebook": "https://www.facebook.com/ProductivityPlus",
+      "linkedin": "https://www.linkedin.com/in/ProductivityPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Johnson",
+        "comment": "Highly recommend their productivity tools!"
+      },
+      {
+        "id": "2",
+        "name": "Ava Martinez",
+        "comment": "Great support for improving our workflow!"
+      }
+    ]
+  },
+  {
+    "id": "028f781e-4288-4ba7-b6cb-97ee2de3fc62",
+    "name": "SalesGenius",
+    "description": "SalesGenius offers comprehensive sales optimization solutions.",
+    "img": "partner_image.jpg",
+    "industry": "Sales",
+    "category": "Referral partner",
+    "market_area": "Australia",
+    "details": "SalesGenius specializes in providing sales optimization solutions tailored to meet the specific needs of businesses. With a team of experienced sales professionals, they help businesses improve their sales processes, increase revenue, and drive business growth.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner10@example.com",
+      "facebook": "https://www.facebook.com/SalesGenius",
+      "linkedin": "https://www.linkedin.com/in/SalesGenius"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Mia Brown",
+        "comment": "Their sales optimization solutions are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Wilson",
+        "comment": "Great partner for increasing our sales!"
+      }
+    ]
+  },
+  {
+    "id": "b8906f3e-8d91-4b99-91e2-6d0743fb44ad",
+    "name": "TechSecurity Solutions",
+    "description": "TechSecurity Solutions offers comprehensive cybersecurity solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Reseller partner",
+    "market_area": "Canada",
+    "details": "TechSecurity Solutions specializes in providing cybersecurity solutions to businesses of all sizes. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner11@example.com",
+      "facebook": "https://www.facebook.com/TechSecuritySolutions",
+      "linkedin": "https://www.linkedin.com/in/TechSecuritySolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Ethan Green",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Ava White",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+  {
+    "id": "c84d537d-f5cb-4683-9983-037a69a74be6",
+    "name": "Social Media Experts",
+    "description": "Social Media Experts offers comprehensive social media marketing services.",
+    "img":"partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Other",
+    "market_area": "China",
+    "details": "Social Media Experts specializes in providing social media marketing services tailored to meet the specific needs of businesses. With a team of experienced social media marketers, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner12@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaExperts",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaExperts"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Smith",
+        "comment": "Their social media marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Brown",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "8e2c5e8e-9a29-40ef-912e-f801b0cf2e62",
+    "name": "Innovate Accounting",
+    "description": "Innovate Accounting offers comprehensive accounting services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Accounting",
+    "category": "Reseller partner",
+    "market_area": "United States",
+    "details": "Innovate Accounting specializes in providing accounting services tailored to meet the specific needs of businesses. With a team of experienced accountants, they help businesses manage their finances, minimize tax liabilities, and improve financial performance.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner13@example.com",
+      "facebook": "https://www.facebook.com/InnovateAccounting",
+      "linkedin": "https://www.linkedin.com/in/InnovateAccounting"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "James Wilson",
+        "comment": "Highly recommend their accounting services!"
+      },
+      {
+        "id": "2",
+        "name": "Sophia Brown",
+        "comment": "Great support for managing our finances!"
+      }
+    ]
+  },
+  {
+    "id": "bd4f6e6f-cc4a-413e-a03a-c1470f9f7b67",
+    "name": "Tech Solutions",
+    "description": "Tech Solutions offers comprehensive technology solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Affiliate Marketer",
+    "market_area": "Canada",
+    "details": "Tech Solutions specializes in providing technology solutions tailored to meet the specific needs of businesses. With a team of experienced developers, they help businesses implement cutting-edge technologies to drive innovation and business growth.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner14@example.com",
+      "facebook": "https://www.facebook.com/TechSolutions",
+      "linkedin": "https://www.linkedin.com/in/TechSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "William Johnson",
+        "comment": "Great partner for technology solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Olivia Smith",
+        "comment": "Their expertise in technology is impressive!"
+      }
+    ]
+  },
+  {
+    "id": "bb26de67-9a83-4974-a880-1ab2886d0283",
+    "name": "Marketing Masters",
+    "description": "Marketing Masters offers comprehensive marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Referral partner",
+    "market_area": "Brazil",
+    "details": "Marketing Masters specializes in providing marketing solutions tailored to meet the specific needs of businesses. With a team of experienced marketers, they help businesses improve their brand visibility, generate leads, and increase sales through effective marketing strategies.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner15@example.com",
+      "facebook": "https://www.facebook.com/MarketingMasters",
+      "linkedin": "https://www.linkedin.com/in/MarketingMasters"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Ava Martinez",
+        "comment": "Their marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Wilson",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "af1d62d2-d8cc-4e11-8a7b-bb8e8d88a7e7",
+    "name": "HR Solutions",
+    "description": "HR Solutions offers comprehensive human resources management services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Other",
+    "market_area": "Australia",
+    "details": "HR Solutions specializes in providing human resources management services tailored to meet the specific needs of businesses. With a team of experienced HR professionals, they help businesses streamline their HR processes, improve employee engagement, and drive business growth.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner16@example.com",
+      "facebook": "https://www.facebook.com/HRSolutions",
+      "linkedin": "https://www.linkedin.com/in/HRSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophie Green",
+        "comment": "Highly recommend their HR services!"
+      },
+      {
+        "id": "2",
+        "name": "David White",
+        "comment": "Great support for managing our HR needs!"
+      }
+    ]
+  },
+
+  {
+    "id": "2d33e583-4ee7-4f3a-ae06-33c18f6ad79c",
+    "name": "Digital Solutions Inc.",
+    "description": "Digital Solutions Inc. offers innovative digital solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Other",
+    "market_area": "Italy",
+    "details": "Digital Solutions Inc. specializes in providing innovative digital solutions tailored to meet the specific needs of businesses. With a team of experienced developers, they help businesses leverage technology to streamline processes, improve efficiency, and drive growth.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner17@example.com",
+      "facebook": "https://www.facebook.com/DigitalSolutionsInc",
+      "linkedin": "https://www.linkedin.com/in/DigitalSolutionsInc"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Ethan Johnson",
+        "comment": "Highly recommend their digital solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Ava Brown",
+        "comment": "Great partner for digital transformation!"
+      }
+    ]
+  },
+  {
+    "id": "b6a59963-cf71-4a9d-8e91-0a3129a4e883",
+    "name": "E-Commerce Experts",
+    "description": "E-Commerce Experts offers comprehensive e-commerce solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "E-Commerce Experts specializes in providing e-commerce solutions tailored to meet the specific needs of businesses. With a team of experienced developers and marketers, they help businesses launch and optimize their online stores to drive sales and grow their online presence.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner18@example.com",
+      "facebook": "https://www.facebook.com/ECommerceExperts",
+      "linkedin": "https://www.linkedin.com/in/ECommerceExperts"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Green",
+        "comment": "Their e-commerce solutions are top-notch!"
+      },
+      {
+        "id": "2",
+        "name": "Sophia Wilson",
+        "comment": "Great partner for launching online stores!"
+      }
+    ]
+  },
+  {
+    "id": "572e39cf-12b6-4cc2-9750-3a94a6b7a5c1",
+    "name": "Marketing Geniuses",
+    "description": "Marketing Geniuses offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Reseller partner",
+    "market_area": "Brazil",
+    "details": "Marketing Geniuses specializes in providing innovative marketing solutions tailored to meet the specific needs of businesses. With a team of creative marketers, they help businesses enhance their brand visibility, attract customers, and drive revenue through effective marketing strategies.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner19@example.com",
+      "facebook": "https://www.facebook.com/MarketingGeniuses",
+      "linkedin": "https://www.linkedin.com/in/MarketingGeniuses"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Noah Brown",
+        "comment": "Highly recommend their marketing solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Wilson",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "e7e1d8b3-45a4-487f-b9ef-493e2399d9b7",
+    "name": "Tech Innovators",
+    "description": "Tech Innovators offers innovative technology solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Publisher",
+    "market_area": "Canada",
+    "details": "Tech Innovators specializes in providing innovative technology solutions tailored to meet the specific needs of businesses. With a team of skilled developers, they help businesses implement cutting-edge technologies to drive innovation and business growth.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner20@example.com",
+      "facebook": "https://www.facebook.com/TechInnovators",
+      "linkedin": "https://www.linkedin.com/in/TechInnovators"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Wilson",
+        "comment": "Highly recommend their technology solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Ava Brown",
+        "comment": "Great support for digital transformation!"
+      }
+    ]
+  },
+  {
+    "id": "6d5ae076-8c77-46d7-9e04-3fe0646d7c50",
+    "name": "Social Media Gurus",
+    "description": "Social Media Gurus offers expert social media marketing services.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Referral partner",
+    "market_area": "Australia",
+    "details": "Social Media Gurus specializes in providing expert social media marketing services tailored to meet the specific needs of businesses. With a team of social media experts, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner21@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaGurus",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaGurus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Ethan Martinez",
+        "comment": "Their social media strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Sophie Johnson",
+        "comment": "Great partner for boosting brand engagement!"
+      }
+    ]
+  },
+  {
+    "id": "db85e6dc-5fd1-4af6-807e-fb1e2db82436",
+    "name": "Cyber Security Solutions",
+    "description": "Cyber Security Solutions offers comprehensive cybersecurity services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Agency partner",
+    "market_area": "Italy",
+    "details": "Cyber Security Solutions specializes in providing comprehensive cybersecurity services tailored to meet the specific needs of businesses. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner22@example.com",
+      "facebook":"https://www.facebook.com/CyberSecuritySolutions",
+      "linkedin": "https://www.linkedin.com/in/CyberSecuritySolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Brown",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Johnson",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+  {
+    "id": "8b99d9a3-09af-44b2-9c39-53c0a7f1b7db",
+    "name": "HR Innovations",
+    "description": "HR Innovations offers innovative human resources management services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Other",
+    "market_area": "Japan",
+    "details": "HR Innovations specializes in providing innovative human resources management services tailored to meet the specific needs of businesses. With a team of HR experts, they help businesses streamline their HR processes, improve employee engagement, and drive business growth through innovative HR solutions.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner23@example.com",
+      "facebook": "https://www.facebook.com/HRInnovations",
+      "linkedin": "https://www.linkedin.com/in/HRInnovations"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Olivia Martinez",
+        "comment": "Highly recommend their HR services!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Brown",
+        "comment": "Great support for managing our HR needs!"
+      }
+    ]
+  },
+  {
+    "id": "56e3b4a7-ecb5-47a2-a4d4-efb0f617ca27",
+    "name": "Tech Solutions Plus",
+    "description": "Tech Solutions Plus offers comprehensive technology solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Affiliate Marketer",
+    "market_area": "United States",
+    "details": "Tech Solutions Plus specializes in providing comprehensive technology solutions tailored to meet the specific needs of businesses. With a team of experienced developers, they help businesses implement cutting-edge technologies to drive innovation and business growth.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner24@example.com",
+      "facebook": "https://www.facebook.com/TechSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/TechSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophia Johnson",
+        "comment": "Highly recommend their technology solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Liam Brown",
+        "comment": "Great support for digital transformation!"
+      }
+    ]
+  },
+  {
+    "id": "b3c47cf1-12c5-42ed-a657-3f5fca5129db",
+    "name": "Marketing Innovations",
+    "description": "Marketing Innovations offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Publisher",
+    "market_area": "Brazil",
+    "details": "Marketing Innovations specializes in providing innovative marketing solutions tailored to meet the specific needs of businesses. With a team of creative marketers, they help businesses enhance their brand visibility, attract customers, and drive revenue through effective marketing strategies.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner25@example.com",
+      "facebook": "https://www.facebook.com/MarketingInnovations",
+      "linkedin": "https://www.linkedin.com/in/MarketingInnovations"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Emma Wilson",
+        "comment": "Their marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Martinez",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "e97d502c-e44d-44a7-9a15-1cf7d076b786",
+    "name": "Social Media Solutions",
+    "description": "Social Media Solutions offers comprehensive social media marketing services.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Referral partner",
+    "market_area": "Australia",
+    "details": "Social Media Solutions specializes in providing social media marketing services tailored to meet the specific needs of businesses. With a team of experienced social media marketers, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner26@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaSolutions",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaSolutions"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Brown",
+        "comment": "Their social media strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Sophie Wilson",
+        "comment": "Great partner for boosting brand engagement!"
+      }
+    ]
+  },
+  {
+    "id": "3c24ad9a-bf5f-40dc-8936-c2cd58b9d8dc",
+    "name": "Security Solutions Inc.",
+    "description": "Security Solutions Inc. offers comprehensive cybersecurity services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Agency partner",
+    "market_area": "Japan",
+    "details": "Security Solutions Inc. specializes in providing comprehensive cybersecurity services tailored to meet the specific needs of businesses. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner27@example.com",
+      "facebook": "https://www.facebook.com/SecuritySolutionsInc",
+      "linkedin": "https://www.linkedin.com/in/SecuritySolutionsInc"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Johnson",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Brown",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+ {
+    "id": "9ae3895c-53d5-484f-8101-908cc94f97f1",
+    "name": "Accounting Solutions Plus",
+    "description": "Accounting Solutions Plus offers comprehensive accounting services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Accounting",
+    "category": "Affiliate Marketer",
+    "market_area": "Italy",
+    "details": "Accounting Solutions Plus specializes in providing accounting services tailored to meet the specific needs of businesses. With a team of experienced accountants, they help businesses manage their finances, minimize tax liabilities, and improve financial performance.",
+    "commission": 12,
+    "social_links": {
+      "email": "partner28@example.com",
+      "facebook": "https://www.facebook.com/AccountingSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/AccountingSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophia Johnson",
+        "comment": "Highly recommend their accounting services!"
+      },
+      {
+        "id": "2",
+        "name": "Liam Brown",
+        "comment": "Great support for managing our finances!"
+      }
+    ]
+  },
+  {
+    "id": "b99b7e67-9c02-41bb-8f07-6930e67c68e5",
+    "name": "Tech Innovations Inc.",
+    "description": "Tech Innovations Inc. offers innovative technology solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Development",
+    "category": "Publisher",
+    "market_area": "United States",
+    "details": "Tech Innovations Inc. specializes in providing innovative technology solutions tailored to meet the specific needs of businesses. With a team of skilled developers, they help businesses implement cutting-edge technologies to drive innovation and business growth.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner29@example.com",
+      "facebook": "https://www.facebook.com/TechInnovationsInc",
+      "linkedin": "https://www.linkedin.com/in/TechInnovationsInc"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Wilson",
+        "comment": "Highly recommend their technology solutions!"
+      },
+      {
+        "id": "2",
+        "name": "Sophie Brown",
+        "comment": "Great support for digital transformation!"
+      }
+    ]
+  },
+  {
+    "id": "783b2907-ef44-45d4-b7e5-5e1b130b272e",
+    "name": "Marketing Innovators",
+    "description": "Marketing Innovators offers innovative marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Referral partner",
+    "market_area": "Australia",
+    "details": "Marketing Innovators specializes in providing innovative marketing solutions tailored to meet the specific needs of businesses. With a team of creative marketers, they help businesses enhance their brand visibility, attract customers, and drive revenue through effective marketing strategies.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner30@example.com",
+      "facebook": "https://www.facebook.com/MarketingInnovators",
+      "linkedin": "https://www.linkedin.com/in/MarketingInnovators"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Emma Wilson",
+        "comment": "Their marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Martinez",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "cbebb37c-ded7-4e78-a86e-2ac71db45b10",
+    "name": "Social Media Innovations",
+    "description": "Social Media Innovations offers innovative social media marketing services.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Other",
+    "market_area": "China",
+    "details": "Social Media Innovations specializes in providing innovative social media marketing services tailored to meet the specific needs of businesses. With a team of experienced social media marketers, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner31@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaInnovations",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaInnovations"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Brown",
+        "comment": "Their social media strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Sophie Wilson",
+        "comment": "Great partner for boosting brand engagement!"
+      }
+    ]
+  },
+  {
+    "id": "f1c3051b-c746-43af-b4b4-b50e27786506",
+    "name": "Cyber Security Innovations",
+    "description": "Cyber Security Innovations offers innovative cybersecurity services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Agency partner",
+    "market_area": "Italy",
+    "details": "Cyber Security Innovations specializes in providing innovative cybersecurity services tailored to meet the specific needs of businesses. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner32@example.com",
+      "facebook": "https://www.facebook.com/CyberSecurityInnovations",
+      "linkedin": "https://www.linkedin.com/in/CyberSecurityInnovations"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Johnson",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Brown",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+  {
+    "id": "d9ae3922-828f-45e1-bc7e-c61776074752",
+    "name": "HR Innovators",
+    "description": "HR Innovators offers innovative human resources management services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Affiliate Marketer",
+    "market_area": "Brazil",
+    "details": "HR Innovators specializes in providing innovative human resources management services tailored to meet the specific needs of businesses. With a team of HR experts, they help businesses streamline their HR processes, improve employee engagement, and drive business growth through innovative HR solutions.",
+    "commission": 12,
+    "social_links": {
+      "email":  "partner33@example.com",
+      "facebook": "https://www.facebook.com/HRInnovators",
+      "linkedin": "https://www.linkedin.com/in/HRInnovators"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Olivia Martinez",
+        "comment": "Highly recommend their HR services!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Brown",
+        "comment": "Great support for managing our HR needs!"
+      }
+    ]
+  },
+  {
+    "id": "3db456ef-9820-4e33-b717-1874f44cc575",
+    "name": "E-Commerce Innovations",
+    "description": "E-Commerce Innovations offers innovative e-commerce solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Referral partner",
+    "market_area": "Australia",
+    "details": "E-Commerce Innovations specializes in providing innovative e-commerce solutions tailored to meet the specific needs of businesses. With a team of experienced developers and marketers, they help businesses launch and optimize their online stores to drive sales and grow their online presence.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner34@example.com",
+      "facebook": "https://www.facebook.com/ECommerceInnovations",
+      "linkedin": "https://www.linkedin.com/in/ECommerceInnovations"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophia Wilson",
+        "comment": "Their e-commerce solutions are top-notch!"
+      },
+      {
+        "id": "2",
+        "name": "Liam Green",
+        "comment": "Great partner for launching online stores!"
+      }
+    ]
+  },
+  {
+    "id": "a67ad831-f79a-41d4-b367-7eb4ee98d14b",
+    "name": "Marketing Solutions Plus",
+    "description": "Marketing Solutions Plus offers comprehensive marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Publisher",
+    "market_area": "Canada",
+    "details": "Marketing Solutions Plus specializes in providing comprehensive marketing solutions tailored to meet the specific needs of businesses. With a team of creative marketers, they help businesses enhance their brand visibility, attract customers, and drive revenue through effective marketing strategies.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner35@example.com",
+      "facebook": "https://www.facebook.com/MarketingSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/MarketingSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Emma Wilson",
+        "comment": "Their marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Martinez",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  },
+  {
+    "id": "cf34b6d7-b0ec-4148-915d-e754b222cd6a",
+    "name": "Social Media Solutions Plus",
+    "description": "Social Media Solutions Plus offers comprehensive social media marketing services.",
+    "img": "partner_image.jpg",
+    "industry": "Social Media",
+    "category": "Affiliate Marketer",
+    "market_area": "China",
+    "details": "Social Media Solutions Plus specializes in providing comprehensive social media marketing services tailored to meet the specific needs of businesses. With a team of experienced social media marketers, they help businesses build their brand, engage with their audience, and drive sales through effective social media strategies.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner36@example.com",
+      "facebook": "https://www.facebook.com/SocialMediaSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/SocialMediaSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Oliver Brown",
+        "comment": "Their social media strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Sophie Wilson",
+        "comment": "Great partner for boosting brand engagement!"
+      }
+    ]
+  },
+  {
+    "id": "c2c8c18d-06a6-4cbb-aab3-b25ef4d19a78",
+    "name": "Cyber Security Solutions Plus",
+    "description": "Cyber Security Solutions Plus offers comprehensive cybersecurity services for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Security",
+    "category": "Referral partner",
+    "market_area": "Egypt",
+    "details": "Cyber Security Solutions Plus specializes in providing comprehensive cybersecurity services tailored to meet the specific needs of businesses. With a team of cybersecurity experts, they help businesses protect their digital assets and sensitive information from cyber threats.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner37@example.com",
+      "facebook": "https://www.facebook.com/CyberSecuritySolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/CyberSecuritySolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Liam Johnson",
+        "comment": "Highly recommend their cybersecurity services!"
+      },
+      {
+        "id": "2",
+        "name": "Emma Brown",
+        "comment": "Great partner for ensuring our data security!"
+      }
+    ]
+  },
+  {
+    "id": "0fb7f026-e0ad-4cd7-9dc1-274d3c2aaec3",
+    "name": "HR Solutions Plus",
+    "description": "HR Solutions Plus offers comprehensive human resources management services.",
+    "img": "partner_image.jpg",
+    "industry": "Human Resources",
+    "category": "Agency partner",
+    "market_area": "United States",
+    "details": "HR Solutions Plus specializes in providing comprehensive human resources management services tailored to meet the specific needs of businesses. With a team of experienced HR professionals, they help businesses streamline their HR processes, improve employee engagement, and drive business growth.",
+    "commission": 20,
+    "social_links": {
+      "email": "partner38@example.com",
+      "facebook": "https://www.facebook.com/HRSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/HRSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophie Green",
+        "comment": "Highly recommend their HR services!"
+      },
+      {
+        "id": "2",
+        "name": "David White",
+        "comment": "Great support for managing our HR needs!"
+      }
+    ]
+  },
+  {
+        "id": "b482b0b1-725d-4f5c-b7cf-c7e2c07c019c",
+    "name": "E-Commerce Solutions Plus",
+    "description": "E-Commerce Solutions Plus offers comprehensive e-commerce solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "E-Commerce",
+    "category": "Publisher",
+    "market_area": "Canada",
+    "details": "E-Commerce Solutions Plus specializes in providing comprehensive e-commerce solutions tailored to meet the specific needs of businesses. With a team of experienced developers and marketers, they help businesses launch and optimize their online stores to drive sales and grow their online presence.",
+    "commission": 18,
+    "social_links": {
+      "email": "partner39@example.com",
+      "facebook": "https://www.facebook.com/ECommerceSolutionsPlus",
+      "linkedin": "https://www.linkedin.com/in/ECommerceSolutionsPlus"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Sophia Wilson",
+        "comment": "Their e-commerce solutions are top-notch!"
+      },
+      {
+        "id": "2",
+        "name": "Liam Green",
+        "comment": "Great partner for launching online stores!"
+      }
+    ]
+  },
+  {
+    "id": "b9f98c30-08c7-4842-a18a-e6cb5c1e33c6",
+    "name": "Marketing Solutions Inc.",
+    "description": "Marketing Solutions Inc. offers comprehensive marketing solutions for businesses.",
+    "img": "partner_image.jpg",
+    "industry": "Marketing",
+    "category": "Affiliate Marketer",
+    "market_area": "Japan",
+    "details": "Marketing Solutions Inc. specializes in providing comprehensive marketing solutions tailored to meet the specific needs of businesses. With a team of creative marketers, they help businesses enhance their brand visibility, attract customers, and drive revenue through effective marketing strategies.",
+    "commission": 15,
+    "social_links": {
+      "email": "partner40@example.com",
+      "facebook": "https://www.facebook.com/MarketingSolutionsInc",
+      "linkedin": "https://www.linkedin.com/in/MarketingSolutionsInc"
+    },
+    "comments": [
+      {
+        "id": "1",
+        "name": "Emma Wilson",
+        "comment": "Their marketing strategies are highly effective!"
+      },
+      {
+        "id": "2",
+        "name": "Noah Martinez",
+        "comment": "Great partner for boosting brand visibility!"
+      }
+    ]
+  }
+
+
+]
